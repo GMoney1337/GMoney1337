@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GMoney1337
-- 👀 I’m interested in security engineering, linux and windows kernel, and exploitation
-- 🌱 I’m currently learning C, Powershell.
+- 👀 I’m interested in security engineering, linux and windows kernel, threat detection, and exploitation
+- 🌱 I’m currently experimenting with C, Powershell, and Rust
 - 💞️ I’m looking to collaborate on anything!
 
 
