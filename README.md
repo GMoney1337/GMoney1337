@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GMoney1337
 - 👀 I’m interested in security engineering, linux and windows kernel, threat detection, and exploitation
-- 🌱 I’m currently experimenting with Python, Bash, and Rust
+- 🌱 I’m currently experimenting with Python, C, Bash, and Rust
 - 💞️ I’m looking to collaborate on anything!
 
 
